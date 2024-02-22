@@ -4,3 +4,14 @@
     list-style: none;
     text-decoration: none;
 }
+
+body{
+    background-color: rgba(204, 200, 200, 0.556);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
